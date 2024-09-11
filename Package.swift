@@ -13,7 +13,7 @@ let package = Package(
             ]),
     ],
     dependencies: [
-        .package(url: "https://github.com/csc-zone/nodejs-ios.git", .branch("main")),
+        .package(url: "https://github.com/csc-zone/nodejs-ios.git", .branch("test")),
     ],
     targets: [
         .target(
